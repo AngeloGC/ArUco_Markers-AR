@@ -4,7 +4,7 @@ This repository contains a project developed in *Python* that allows you to proj
 
 ## Installation
 
-To make the project work, the libraries used must be installed. To do this you can use the package manager [pip] (https://pip.pypa.io/en/stable/).
+To make the project work, the libraries used must be installed. To do this you can use the package manager [pip](https://pip.pypa.io/en/stable/).
 
 The commands to install the libraries are the following:
 
